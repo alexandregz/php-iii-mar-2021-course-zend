@@ -4,7 +4,7 @@
 
 - Error trying to compile
 
-``bash
+```bash
 vagrant@php-training:~/Zend/workspaces/DefaultWorkspace/php3/src/ModAdvancedTechniques/Extensions/TelemetryExtension$ make
 g++ -shared -o telemetry.so main.o -lphpcpp
 /usr/bin/ld: cannot find -lphpcpp
