@@ -43,5 +43,5 @@ vagrant@php-training:~/php-iii-mar-2021-course-zend$ php -S localhost:8888
 [Fri Mar 19 19:19:18 2021] 127.0.0.1:58592 Closing
 ```
 
-- [](/index.php): index.php to test built-in PHP web server
+- [index.php](/index.php): index.php to test built-in PHP web server
 
