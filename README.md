@@ -12,3 +12,5 @@ collect2: error: ld returned 1 exit status
 make: *** [Makefile:99: telemetry.so] Error 1
 ```
 
+Not found PHP-CPP, I'm trying to compile but without success :-(
+
